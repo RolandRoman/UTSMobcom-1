@@ -120,7 +120,7 @@ fun MatkulListItem(
                     style = MaterialTheme.typography.displayLarge
                 )
                 Text(
-                    text = stringResource(matkul.sksRes),
+                    text = stringResource(matkul.sksRes) + " SKS",
                     style = MaterialTheme.typography.displayMedium
                 )
             }
